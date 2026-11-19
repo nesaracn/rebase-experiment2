@@ -1,2 +1,6 @@
  this is original file.
+<<<<<<< HEAD
 remote developer added this line.
+=======
+ local developer added this line
+>>>>>>> 500550a (local developer update)
